@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Web Development\\git\\New folder\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\Web Development\\git\\New folder\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "E:\\Web Development\\git\\New folder\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\Web Development\\git\\New folder\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\S H K\\.nuget\\packages\\",
-      "outputPath": "E:\\Web Development\\git\\New folder\\WebApplication1\\obj\\",
+      "outputPath": "E:\\Web Development\\git\\New folder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S H K\\AppData\\Roaming\\NuGet\\NuGet.Config",
