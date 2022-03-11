@@ -18,7 +18,7 @@ jobs:
         dotnet-version: 6.0.x
     - name: Build
       run: dotnet build
-    # - name: Publish
-      # run: dotnet publish
-    - name: Run
-      run: dotnet run
+    - name: Publish
+      run: dotnet publish
+    # - name: Run
+      # run: dotnet run
